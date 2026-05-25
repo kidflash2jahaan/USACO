@@ -1,3 +1,5 @@
+// 6/18
+
 package com.systemerr.usaco;
 
 import java.util.Scanner;
